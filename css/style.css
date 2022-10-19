@@ -1,3 +1,41 @@
-body {
-  background-color: black;
+#main-navbar {
+  background-color: #faebd7;
+  overflow: hidden;
+}
+
+#main-navbar ul {
+  list-style-type: none;
+  margin: 15px;
+  display: inline-block;
+}
+
+#main-navbar ul li {
+  float: left;
+}
+
+#main-navbar ul li a{
+  text-decoration: none;
+  padding: 0;
+  color:black;
+  font-size: 2em;
+}
+
+#navbar-container{
+  width: 100%;
+  position: relative;
+  text-align: center;
+}
+
+#main-navbar ul li a:hover {
+  color: white;
+}
+
+#main-navbar #onpage {
+  text-decoration: underline overline;
+}
+
+#bike {
+  position: relative;
+  width: 500px;
+  height: 300px;
 }
