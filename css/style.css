@@ -45,6 +45,26 @@ ul {
   height: 300px;
 }
 
+#video {
+  text-align: center;
+  margin: auto;
+  height: 50em;
+  width: 100%;
+}
+
+#lobby {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#jones {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 43.5rem;
+}
+
 body {
   background-color: #faebd7;
 }
