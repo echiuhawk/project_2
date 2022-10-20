@@ -68,3 +68,28 @@ ul {
 body {
   background-color: #faebd7;
 }
+
+.fixed_li {
+  color:rgb(70, 4, 83);
+  font-size: 25px;
+  margin: auto;
+}
+
+#name {
+  text-align: center;
+  font: 'specimen', monospace;
+  font-size: 45px;
+  padding: 0;
+  margin: 0;
+}
+
+#email {
+  text-align: center;
+  font-family: monospace;
+  font-size: x-large;
+}
+
+h2 {
+  font-size: 25px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
