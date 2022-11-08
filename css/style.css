@@ -49,6 +49,7 @@ ul {
 
 #education {
   border: .3rem solid rgb(228, 95, 95);
+  float: inline-end;
 }
 
 #video {
@@ -62,6 +63,7 @@ ul {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  float: unset;
 }
 
 #jones {
@@ -87,18 +89,21 @@ body {
   padding: 0;
   margin: 0;
   font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  float: inline-start;
 }
 
 #email {
   text-align: center;
   font-family: monospace;
   font-size: x-large;
+  float: initial;
 }
 
 h2 {
   font-size: 25px;
   font-family: Georgia, 'Times New Roman', Times, serif;
   text-align: center;
+  float: inline-start;
 }
 
 h1 {
@@ -126,6 +131,7 @@ ol {
 .bike_lists {
   color: purple;
   font-size: 1.75rem;
+  float: none;
 }
 
 #jcp_title {
@@ -133,6 +139,7 @@ ol {
   font-size: 5rem;
   color: rgb(50, 51, 0);
   margin: 5%;
+  float: inline-end;
 }
 
 .jcp {
